@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+	<head>
+    <title>{{ .Title }} | {{ .Site.Title }}</title>
+		{{ partial "head.html" . }}
+	</head>
+	<body>
+
+	{{ partial "header.html"  . }} 
+
+	<main class="site-content">
+
+	<section class="content">
+		
+		{{ .Content }}
+
+	</section>
+	</main>
+	
+	<div>
+		{{ partial "newsletter.html"  . }}
+	</div>
+	
+	{{ partial "footer.html" . }}
+
+	<script src="{{ .Site.BaseURL }}js/functions.js"></script>
+
+	</body>
+</html>

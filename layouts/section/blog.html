@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+
+<head>
+	{{ partial "head.html" . }}
+  <title>Blog | {{ .Site.Title }}</title>
+</head>
+<body>
+
+	{{ partial "header.html"  . }} 
+
+	<main class="site-content">
+
+		<h1 id="title-my-blog">My Blog.</h1>
+		<ul>			
+			{{ range .Data.Pages }}
+			<li>
+				<h2 class="blog-summary-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+				<div class="blog-sub">
+				<div class="blog-date">
+				{{ .Date.Format "02 January 2006" }}
+				<div class="reading-time">
+				Time to read ~ {{ .ReadingTime }} minutes
+				</div>
+				</div>
+				<a href="{{ .Permalink }}">
+				<img class="img-blog-summary" src="{{ .Site.BaseURL}}{{ .Params.image }}" alt="">
+				</a>
+				<p>
+				{{ .Summary }}
+				</p>
+				<p class="blog-readmore">
+				<a href='{{ .Permalink }}'><nobr><strong>Read more →</strong></nobr></a>
+				</p>
+			</li>
+			{{ end }}
+		</ul>
+
+
+	</main>
+
+	<div>
+		{{ partial "newsletter.html"  . }}
+	</div>
+	{{ partial "footer.html" . }}
+
+	<script src="{{ .Site.BaseURL }}js/functions.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+<head>
+  <title>{{ .Title }} | {{ .Site.Title }}</title>
+	{{ partial "head.html" . }}
+</head>
+<body>
+
+	{{ partial "header.html"  . }} 
+
+	<main class="site-content main">
+
+		<h2 class="blog-title">
+			{{ .Title }}
+		</h2>
+
+		<div class="blog-sub">
+		<div class="blog-date">
+			{{ .Date.Format "02 January 2006" }}
+		<div class="reading-time">
+			Time to read ~ {{ .ReadingTime }} minutes
+		</div>
+		</div>
+		</div>
+		<img class="img-blog-post" src="{{ .Site.BaseURL}}{{ .Params.image }}" alt="">
+
+		
+		{{ .Content }}
+		{{ partial "footer-blogpost.html"  . }}
+
+		
+	</main>
+	<div>
+		{{ partial "newsletter.html"  . }}
+	</div>
+
+	{{ partial "footer.html"  . }}
+
+	<script src="{{ .Site.BaseURL }}js/functions.js"></script>
+</body>
+</html>

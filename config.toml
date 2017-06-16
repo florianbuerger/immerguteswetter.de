@@ -1,0 +1,12 @@
+baseURL = "https://www.immerguteswetter.de"
+languageCode = "de-de"
+title = "Immerguteswetter"
+
+[blackfriday]
+   hrefTargetBlank = true
+
+[[menu.main]]
+    name = "Blog"
+    identifier = "blog"
+    url = "/blog/"
+    weight = 100
