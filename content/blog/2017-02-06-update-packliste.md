@@ -3,9 +3,13 @@ title = "Update Packliste"
 date = "2017-02-06"
 layout = "blog"
 image = "/img/Ice1.png"
+category = "Blog"
 +++
 
 Neue Länder, neue Kleidung. Nachdem wir nun nach einem halben Jahr in Südost-Asien bei 30 Grad verbringen durften, müssen wir unsere Garderobe nun etwas an die -10 bis +10 Grad anpassen welche uns in Schweden, Norwegen und Kanada erwarten werden. Daher gibt es hier in Update unserer Packliste.
+
+<!--more-->
+
 <h2>Rucksäcke</h2>
 Verpackt ist unser Hab und Gut noch immer in unseren Rucksäcken welche uns von Beginn an schon begleiten. Der [Osprey Farpoint 40](http://amzn.to/2b1VkZ7) für Verena und einen [Standard's Carry-on Backpack](https://www.standardluggage.com/products/carry-on-backpack-travel-bag) für Flo.
 <h2>Was haben wir dabei?</h2>

@@ -1,11 +1,15 @@
 +++
-title = Unsere Packliste"
+title = "Unsere Packliste"
 date = "2016-07-23"
 layout = "blog"
 image = "/img/Ice1.png"
+category = "Blog"
 +++
 
 Bevor man in den Urlaub fährt packt man seinen Koffer. Meist packt man diesen dann auch noch viel zu voll und gebraucht wird sowieso nicht mal die Hälfte. Aber da ist ja auch ok, wenn man 2 Wochen in den Urlaub fährt. Wieder zuhause wird dann alles gewaschen und wieder in den Schrank gepackt. Bei uns ist das ganze dann aber doch etwas schwieriger.
+
+<!--more-->
+
 
 Vor unserer Abreise im August 2016 haben wir unsere Wohnung aufgelöst und daher gibt es die Option mit dem Kleiderschrank nicht mehr. Alles was wir noch besitzen passt in unsere Rucksäcke bzw. in die 2 Kisten die bei Mama im Keller stehen.
 

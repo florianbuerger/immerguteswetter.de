@@ -3,9 +3,13 @@ title = "Auf dem Weg nach Koh Lanta"
 date = "2016-08-14"
 layout = "blog"
 image = "/img/Ice1.png"
+category = "Thailand"
 +++
 
 Wahnsinn wie die Zeit vergeht. Kaum angekommen sind die ersten 2 Wochen auf Koh Lanta schon vorbei.
+
+<!--more-->
+
 
 Normalerweise müsste man sich jetzt dann schon wieder mit dem Koffer packen beschäftigen und würde der baldigen Heimreise entgegen gehen. Aber nicht so bei uns. Wir bleiben. Noch für 6 weitere Wochen. Und ja, das ist ein gutes Gefühl.
 
@@ -15,22 +19,21 @@ Um ein wenig flexibler zu sein haben wir uns für die Dauer das Aufenthaltes ein
 
 Apropos Strand. Wir dachten für unseren ersten richtigen Strandtag in Thailand als digitale Nomaden gehen wir nicht zum Strand vor der Tür sondern eine Bucht weiter zur sogenannten "Relax Bay". Und nein, der Name verspricht nicht zu viel. Da wie gesagt _Green Season_ ist haben leider sehr viele Bars am Strand noch geschlossen, aber dafür sind auch kaum Leute unterwegs. Das heisst wir hatten die gesamte Bucht fast für uns allein, konnten uns unter eine hübsche Palme legen und den Tag genießen. Besser geht's kaum.
 
-<h2>Wochenmarkt</h2>
+## Wochenmarkt
 
 Ganz begeistert waren wir auch vom Markt. Dieser findet jeden Donnerstag ein paar Minuten von unserem Bungalow entfernt statt. Touristen finden sich hier wenig, es ist eher ein Wochenmarkt für die Einheimischen. Dementsprechend waren alle Schilder nur auf thailändisch und man musste teilweise raten, was diese sonderbaren Früchte sein könnten. Zum Glück konnten die netten Verkäuferinnen zumindest die Preise auf englisch nennen, daher war das Kaufen kein Problem. Vollgepackt mit lecker Obst und Gemüse ging es dann wieder zurück zum Bungalow wo wir an diesem Abend den üblichen Wok mit unseren erbeuteten Köstlichkeiten noch leckerer machen konnten.
 
-<h2>Patty's Secret Garden</h2>
+## Patty's Secret Garden
 
 Wo wir gerade beim Essen sind. Ich bin geradewegs begeistert von der Qualität des Essens das man hier in den Restaurants bekommt. Wir waren vor allem in den ersten Tagen immer essen und haben verschiedene Lokale ausprobiert. Zunächst natürlich reine thailändische Küche, weil wenn man schon mal hier ist, dann muss man das auch ausnutzen. Alles super lecker und die Erwartungen wurden sogar übertroffen. Aber nach ein paar Tagen wollten wir dann doch mal wieder etwas anders. Mit nicht all zu grossen Erwartungen haben wir uns dann in ["Patty's Secret Garden"](http://pattyssecretgarden.com) einen Burger bestellt. Und ich muss sagen wir waren restlos begeistert. Selten haben wir so gute Burger gegessen. Und Pommes. Vor allem die Süßkartoffelpommes suchen ihresgleichen.
 
-<h2>Le Colibri</h2>
+## Le Colibri
 
 Nach dieser positiven Erfahrung haben wir uns dann auch getraut in ein Pizza-Restaurant zu gehen. Weil irgendwie brauchte ich mal wieder Käse. Also ab ins "Le Colibri". Zunächst einmal ist das Ambiente des kleinen Lokals unglaublich schön. Alles sehr gemütlich eingerichtet mit einem Auge für Details. Und hinter der Theke steht ein Franzose dem das Lokal auch gehört. Kaum haben wie bestellt hat dieser auch schon losgelegt und unsere Pizzen wanderten schnell in den Pizzaofen. Als wir sie dann bekommen haben waren wir allein von der Größe schon überwältigt. Aber gut, so hatten wir schon Mittagessen für den nächsten Tag ;-) Die Pizza war zudem noch besser als wir sie erwartet haben. Der Teig war angenehm dünn und knusprig und der Belag einfach lecker. Leider konnten wir danach keinen der Nachtische mehr probieren, weil wir einfach zu voll waren. Dann müssen wir ein ander Mal für die Mousse au Chocolat, den Tarte de Pomme und die Creme Caramel wieder kommen. Und das vermutlich genau in dieser Reihenfolge.
 
 So, ich hoffe ihr seid jetzt schön hungrig geworden. :D
 
 
-<h3>Bis bald,</h3>
-<h3>eure</h3>
+### Bis bald,
 
-<img src="https://www.immerguteswetter.de/wp-content/uploads/2016/08/Verena.png" alt="Verena" width="127" height="58" class="alignnone size-full wp-image-168" />
+<h1 class="signature">Verena & Flo</h1>

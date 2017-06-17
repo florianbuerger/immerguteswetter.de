@@ -3,29 +3,36 @@ title = "George Town, Malaysia"
 date = "2016-10-03"
 layout = "blog"
 image = "/img/Ice1.png"
+category = "Malaysia"
 +++
 
 Und weiter geht unsere Reise. Nach dem Reisetag folgt der Arbeitstag. Keine Sorge, auf diesen wird nicht wieder eine Ode gedichtet… Oder vielleicht doch, mal schauen (wir wollen jetzt die Spannung noch nicht raus nehmen)…
 
+<!--more-->
+
+
 Auf Thailand folgt nun Malaysia, das ist zwar nicht alphabetisch, aber das macht ja nichts. Dafür sind wir noch weiter im Süden und noch eine Stunde weiter weg von Deutschland. Es sind jetzt 6 Stunden - aber wer zählt schon mit.
 
-<h2>George Town</h2>
+## George Town
+
 Unsere erste Station in Malaysia ist George Town, die Hauptstadt der Insel und des Bundesstaats Penang. George Town ist UNESCO Weltkulturerbe. Was das heißt? Alles ist alt und darf nicht neu gemacht werden. Sicherlich gibt es dafür noch andere Erklärungen, aber wir geben uns damit zufrieden. Wenn wir so durch die Straßen laufen erinnern die Häuser eher an Filmkulissen aus chinesischen Western (wir sind uns sicher, dass es so etwas gibt). Jedes zweite Haus zeigt ein Schild einer Trading Co., ein Relikt aus der Kolonialzeit. Auch sehen die Häuser meist nicht bewohnt aus, vor allem da die Türen und Fenster oft den Blick ins Innere verwehren. Werden diese aber geöffnet, dann zeigt sich George Town in einem ganz anderen Licht.
 
 So beherbergen die Mehrzahl der meist 2-3-stöckigen Häuser im Erdgeschoss ein Restaurant, Ladengeschäft oder undefinierbares Dienstleistungs-Produkt-Service-Verkaufs-Kunst-Werkstatt-Dings. Viele Geschäfte verkaufen skurriler weise Rasenmäher, Bohrmaschinen und sonstige Heimwerker Gerätschaften. Auch gibt es sehr viel Weihnachtsdekorationen. Scheinbar existiert der Trend nicht nur in Deutschland, auch auf der anderen Seite der Welt können Menschen es kaum erwarten, ihre Häuser in blinkendes Plastik einzupacken.
 
 [gallery type="rectangular" ids="472,471,468,466,467,451,450,449,445" orderby="rand"]
 
-<h2>Little India</h2>
+## Little India
+
 Wer schon immer mal durch die Kulissen einer Bollywood Filmes laufen wollte **muss** Little India besuchen. Dieser Bereich innerhalb der *Heritage Area* (das ist der super alte UNESCO Bereich) kündigt sich schon von weitem durch den starken Kurkuma Geruch und die laute Bollywood Musik an, welche aus großen Lautsprechern aus beinahe jedem Laden strömt. Der einzige Unterschied zum Bollywood-Film besteht darin, dass hier niemand tanzt. Wir sind aber stark davon überzeugt, dass auch das früher oder später passieren wird (drückt uns die Daumen).
 
-<h2>Betel Nut Lodge</h2>
+## Betel Nut Lodge
+
 Auch unser Hotel befindet sich in einem der Filmkulissen-Häuser nahe dem Stadtzentrum. Die [Betel Nut Lodge](http://betelnutlodge.com/) ist ein kleines Hotel mit 6 Zimmern und mindestens doppelt so vielen Angestellten. Der Besitzer ist super nett und ein laufendes Lexikon. Zu jedem Thema kann er mindestens 15 Minuten erzählen und das ist meistens auch noch interessant (wir wussten garnicht wie viele verschiedene Arten von Bananen es gibt). Neben diesen Informationen gibt es zusätzlich zum gebuchten Frühstück jeden Nachmittag auch noch lecker Tee und Gebäck und vor dem Schlafen gehen selbst gemachte Mandelmilch. Viel besser kann man sich um seine Gäste garnicht kümmern.
 
 [caption id="attachment_447" align="aligncenter" width="1500"]<a href="https://www.immerguteswetter.de/wp-content/uploads/2016/10/1EAA6CB4-F89F-43DA-9212-2E11BBA51B65-e1475462649485.jpg"><img src="https://www.immerguteswetter.de/wp-content/uploads/2016/10/1EAA6CB4-F89F-43DA-9212-2E11BBA51B65-e1475462649485.jpg" alt="Betel Nut Lodge George Town" width="1500" height="789" class="size-full wp-image-447" /></a> Betel Nut Lodge George Town[/caption]
 
 
-<h2>Restaurants</h2>
+## Restaurants
 Da wir leider nicht nur von leckeren Küchlein und Mandelmilch leben können müssen wir jeden Tag auf die Suche nach Essen gehen. Auch hier ist unser Gastgeber eine ergiebige Quelle. Leider können wir uns nur einen Bruchteil der Empfehlungen merken, aber oft zeichnet er uns für das von ihm bevorzugte Restaurant eine kleine Karte. So haben wir durch ihn ein indisches vegetarisches Restaurant gefunden, ein super-öko-chinesisches Restaurant sowie ein vegetarisches Restaurant mit den herzlichsten Mitarbeitern die uns die gesamte Karte erklärt haben und dann einfach alles leckere zu unserem Tisch gebracht haben.
 
 Der Inder mit dem Namen [Woodlands](http://karaikudi.com.my/) liegt am äußeren Rand von Bollywood… ähm, Little India. Ein sehr geschäftiges Etablissement. Die Karte war zwar nur zwei Seiten lang, allerdings in sehr kleiner Schrift. Da wir leider mit indischen Bezeichnungen für indische Gerichte nicht sonderlich bewandert sind war die Bestellung eher Glückssache. Bekommen haben wir dann aber tatsächlich sehr schmackhaftes Essen. Flo's Buttermilch mit Senfsamen und weitern Gewürzen müssen wir allerdings nicht noch einmal haben.
@@ -51,4 +58,5 @@ Gerade sitzen wir im [Mugshot](https://www.facebook.com/themugshotcafepenang/ "F
 Da Verena jetzt meckert dass sie jetzt sofort Windbeutel haben will machen wir jetzt auch Schluss. Sonst wirft sie sich wieder heulend auf den Boden und ich werde komisch von der Seite angeschaut.
 
 <h3>Bis bald,</h3>
-<a href="https://www.immerguteswetter.de/wp-content/uploads/2016/08/Verena-Flo-1.png"><img src="https://www.immerguteswetter.de/wp-content/uploads/2016/08/Verena-Flo-1.png" alt="Verena &amp; Flo" width="267" height="84" class="size-full wp-image-166" /></a>
+
+<h1 class="signature">Verena & Flo</h1>

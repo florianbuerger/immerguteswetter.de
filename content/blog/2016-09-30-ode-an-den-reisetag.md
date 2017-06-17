@@ -3,11 +3,15 @@ title = "Ode an den Reisetag"
 date = "2016-09-30"
 layout = "blog"
 image = "/img/Ice1.png"
+category = "Blog"
 +++
 
 Jetzt ist es also so weit. Unsere Zeit auf Koh Lanta nähert sich dem Ende. Wahnsinn, wie schnell 8 Wochen vorbei gehen können.
 
-<h2>Kurz vor der Abreise</h2>
+<!--more-->
+
+
+## Kurz vor der Abreise
 Wenn das Abreisedatum so kurz bevor steht dann gehen einem natürlich viele Dinge durch den Kopf. Man erinnert sich an die wunderbare Kayak-Tour, an das super leckere Essen, die vielen neuen Freunde, die Dinge die man auf dem Markt entdeckt hat und vieles, vieles mehr. 
 
 Und auch kommen die typischen Gedanken, welche man am Ende eines Urlaubs hat. Waren wir oft genug am Meer, waren wir in allen leckeren Restaurants, haben wir alles besichtigt und besucht und erlebt und probiert??? 
@@ -16,10 +20,10 @@ Nach dieser leichten Panik, die in manchen Fällen dem bisher schönen Urlaub ei
 
 Und mit diesen Gedanken lässt sich der Rucksack dann doch sehr beschwingt packen.
 
-<h2>Reise-Tage</h2>
+## Reise-Tage
 Nach dem Packen folgt dann natürlich der Reisetag. Man hört allgemein sehr viel schlechtes über Reisetage. Irgendwie scheint kaum jemand diese Tage wirklich zu mögen und sie werden eher als Last gesehen. Daher hier nun unsere Ode an den Reisetag. Denn verdient hat der Reisetag diese negativen Gefühle nun wirklich nicht.
 
-<h2>Der Reisetag den keiner mag.</h2>
+## Der Reisetag den keiner mag.
 
 Wenn einer eine Reise tut, 
 dann macht er das leider selten mit Hut.
@@ -72,6 +76,6 @@ ist ein Narr wer diesen Tag vergeudet.
 Lasst uns lieber die Zeit bis zum Ende nutzen,
 und uns beim Reisetag bedanken statt den Urlaub zu stutzen.
 
-<h3>Wir wünschen euch wunderschöne Reisetage,</h3>
+### Wir wünschen euch wunderschöne Reisetage,
 
-<a href="https://www.immerguteswetter.de/wp-content/uploads/2016/08/Verena-Flo-1.png"><img src="https://www.immerguteswetter.de/wp-content/uploads/2016/08/Verena-Flo-1.png" alt="Verena &amp; Flo" width="267" height="84" /></a>
+<h1 class="signature">Verena & Flo</h1>

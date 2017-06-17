@@ -1,8 +1,9 @@
-2+++
-title = "Auf dem Weg nach Koh Lant"
++++
+title = "Auf dem Weg nach Koh Lanta"
 date = "2016-08-03"
 layout = "blog"
 image = "/img/Ice1.png"
+category = "Thailand"
 +++
 
 Nach drei lauten Tagen in Bangkok starteten wir zu unserem ersten wirklichen Ziel als digitale Nomaden. **2 Monate auf Koh Lanta.**
@@ -21,5 +22,6 @@ Die rasante Fahrt führte dann etwa 1 Stunde quer durch die Pampa bis zur Fähre
 
 Vorbei am Hafen und den vielen Häusern und Geschäften von Sala Dan ging es weiter nach Süden. Die Häuser wurden weniger und plötzlich bog der Fahrer auf einen Weg ab, der nicht so aussah als sollte er diesen befahren. Auch ging es recht steil den Berg hinauf. Aus einem "Oh mist" wurde sehr schnell ein "Oha!" als wir den Ausblick sahen, den wir ab jetzt genießen können. Vielleicht lässt es sich hier wirklich ganz gut leben. Wir werden berichten.
 
-<h3>Viele Grüße vom Strand,</h3>
-<img src="https://www.immerguteswetter.de/wp-content/uploads/2016/08/Verena.png" alt="Verena" width="127" height="58" class="alignnone size-full wp-image-168" />
+### Viele Grüße vom Strand,
+
+<h1 class="signature">Verena & Flo</h1>

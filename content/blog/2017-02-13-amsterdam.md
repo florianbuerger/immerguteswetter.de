@@ -3,9 +3,12 @@ title = "Amsterdam"
 date = "2017-02-13"
 layout = "blog"
 image = "/img/Ice1.png"
+category = "Holland"
 +++
 
 Nachdem wir uns den Januar über in Deutschland an das kalte Wetter gewöhnen konnten. Ging es nun weiter in Richtung Norden. Also hieß es nach 6 Stunden im Zug "Welkom bij Amsterdam". 
+
+<!--more-->
 
 Von Anfang an sind wir von der Ruhe und Gelassenheit die überall herrscht sehr angetan. Da die meisten Leute hier mit dem Fahrrad unterwegs sind muss man zwar aufpassen von den vielen Zweirädern nicht überfahren zu werden, dafür ist die ganze Stadt aber sehr ruhig. Auch sehr sympathisch sind die netten niederländischen Worte welche hier als Sprache bezeichnet werden für uns aber einfach nur hübsch zu lesen und hören sind.
 
@@ -22,4 +25,5 @@ Neben schlendern gibt es in Amsterdam noch ein paar sehr süße kleine Cafés, d
 So, wir werden jetzt zum nächsten Café schlendern bevor wir weiter ziehen.
 
 <h3>Groeten uit Amsterdam,</h3>
-<a href="https://www.immerguteswetter.de/wp-content/uploads/2016/08/Verena-Flo-1.png"><img src="https://www.immerguteswetter.de/wp-content/uploads/2016/08/Verena-Flo-1.png" alt="Verena &amp; Flo" width="267" height="84" class="size-full wp-image-166" /></a>
+
+<h1 class="signature">Verena & Flo</h1>

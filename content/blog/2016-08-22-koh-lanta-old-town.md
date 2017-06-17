@@ -3,13 +3,17 @@ title = "Koh Lanta Old Town"
 date = "2016-08-22"
 layout = "blog"
 image = "/img/Ice1.png"
+category = "Thailand"
 +++
 
 Wenn man sich etwas mit Koh Lanta auseinandersetzt dann merkt man schnell, dass es hier nicht all zu viel zu tun und zu besichtigen gibt. Und genau das ist auch ein Grund, warum wir uns für diese Insel entschieden haben. 
 
+<!--more-->
+
+
 Eine Empfehlung die man aber immer wieder liest ist das Örtchen Old Town. Und da schönes Wetter war und wir wirklich keine Lust hatten zu arbeiten machten wir uns auf den Weg dort hin.
 
-<h2>Old Town</h2>
+## Old Town
 
 Auf der Ostseite der Insel gelegen ist Old Town etwa 12 Kilometer entfernt von [unserem Bungalow](http://lanta-servicedapartments.com) an der Westküste. Also kein Problem für unseren kleinen Roller.
 
@@ -17,13 +21,13 @@ Die südliche Insel von Koh Lanta, die auf der wir wohnen, ist ca. 27 Kilometer 
 
 Old Town selbst ist eine Ansammlung an Häuschen an einer Strasse die Küste entlang. Diese Häuschen sind mehrheitlich mietbare Unterkünfte, Restaurants oder Läden mit diversen Kleidungsstücken oder anderen Souvenirs.
 
-<h2>Beautiful Restaurant</h2>
+## Beautiful Restaurant
 
 Unsere erste Station war das [Beautiful Restaurant](http://lantaoldtown.com/restaurants/beautiful-restaurant) am nördlichen Ende besagter Strasse. Und ja, der Name verspricht nicht zu viel. Das Restaurant ist auf Stegen ins Wasser gebaut. Es war zwar gerade Ebbe aber dennoch hatten wir einen sehr schönen Blick über das Meer, zahlreiche Fischerboote und Einheimische, die den Strand nach Muscheln und Krebsen absuchten. Auch das Essen selbst war wieder mal sehr leckere Thaiküche und so konnten wir gut gestärkt weiter ziehen.
 
 [gallery type="rectangular" ids="270,275,273,272,271,274"]
 
-<h2>Elefantenhosen und mehr</h2>
+## Elefantenhosen und mehr
 
 Da fast nichts los war, was vermutlich daran lag, dass sowohl Nebensaison als auch Mittagszeit war, konnten wir gemütlich durch die Strasse schlendern und uns das Angebot der verschiedenen kleinen Läden ansehen. Wenn man eine Vorliebe für Hosen mit Elefanten darauf hat, dann findet man hier — wie auch in alles anderen Läden auf Koh Lanta — seinen Himmel. Wenn nicht, dann muss man schon etwas mehr suchen um etwas ansprechendes zu finden. Aber es lässt sich durchaus schön durch die verschiedenen Kleiderständer stöbern und die vielen Kleinigkeiten betrachten die auf den Regalen hübsch aufgestellt sind.
 
@@ -31,5 +35,6 @@ Da fast nichts los war, was vermutlich daran lag, dass sowohl Nebensaison als au
 Durch die Ruhe und Entspanntheit die dieses kleine Örtchen ausstrahlt ist allein das herumschlendern selbst schon fast meditativ. Und wenn man sich dann auch noch eine Weile ans Wasser setzt, dann kann man wirklich nur noch abschalten und vor sich hin träumen. Was wäre, wenn man hier nicht wieder weg müsste und noch sehr, sehr lange diese Ruhe und Ausgeglichenheit genießen könnte....
 
 
-<h3>Bis bald,</h3>
-<img src="https://www.immerguteswetter.de/wp-content/uploads/2016/08/Verena-Flo-1.png" alt="Verena &amp; Flo" width="267" height="84" class="alignnone size-full wp-image-166" />
+### Bis bald,
+
+<h1 class="signature">Verena & Flo</h1>

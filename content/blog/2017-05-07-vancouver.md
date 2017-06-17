@@ -2,10 +2,13 @@
 title = "Vancouver von und mit Dani & Tim"
 date = "2017-05-07"
 layout = "blog"
-image = "/img/Ice1.png"
+image = "/img/vancouver-2.png"
+category = "Kanada"
 +++
 
 Wir hatten die Ehre mit Verena und Flo eine wunderschöne Woche in Vancouver zu verbringen. Aus diesem Grund wurden wir gezwungen einen Blogpost zu schreiben. Wir entschuldigen uns schon einmal dafür ;)
+
+<!--more-->
 
 Nach einem sehr langen (10,5 Stunden) Flug in einem viel zu kleinem Flugzeug mit viel zu wenig Unterhaltung (4 Filme) kamen wir endlich in Vancouver an. Für nicht Weltenbummler wie uns, ist es schwer, sich in einer großen fremden Stadt zurechtzufinden. So war es trotz detaillierter Wegbeschreibung von Verena ein kleines Abenteuer für uns zur Unterkunft zu finden. 
 
@@ -30,8 +33,8 @@ Es war eine sehr schöne Zeit mit Florena die wir hoffentlich bald an einem ande
 
 [caption id="attachment_758" align="aligncenter" width="1246"]<a href="https://www.immerguteswetter.de/wp-content/uploads/2017/06/Screen-Shot-2017-06-05-at-11.19.35.png"><img src="https://www.immerguteswetter.de/wp-content/uploads/2017/06/Screen-Shot-2017-06-05-at-11.19.35.png" alt="Dani und Tim" width="1246" height="1604" class="size-full wp-image-758" /></a> [/caption]
 
-</br>
 
-<h3>Viele Grüße, 
-Dani und Tim    </h3>
+### Viele Grüße, 
+
+<h1 class="signature">Dani & Tim</h1>
 

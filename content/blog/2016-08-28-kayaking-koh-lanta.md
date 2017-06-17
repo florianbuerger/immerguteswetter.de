@@ -3,9 +3,13 @@ title = "Kayaking rund um Koh Lanta"
 date = "2016-08-28"
 layout = "blog"
 image = "/img/Ice1.png"
+category = "Thailand"
 +++
 
 Wenn man Freitag abends mit ein paar netten Leuten aus allen möglichen Gegenden der Welt zusammensitzt und dann die Idee aufkommt, dass man am Sonntag doch einen Kayak-Ausflug machen könnte, dann hört sich das nach einer recht guten Idee an. Wenn es dann aber Sonntag morgens 8 Uhr ist und man wirklich Richtung Abenteuer aufbricht, dann fragt man sich doch, worauf man sich da eigentlich eingelassen hat.
+
+<!--more-->
+
 
 Aber dafür sind wir ja unterwegs. Um Dinge zu erleben, die man so nicht erleben würde und seine Grenzen auszutesten. Also Sachen gepackt, die zweite Schicht Sonnencreme aufgetragen und los gehts zum Abholort. Dort wurden wir dann auch recht pünktlich (nach Thai Verhältnissen) abgeholt. Und dann ging es ungefähr eine Stunde von der Südinsel auf die Nordinsel und diese wurde einmal komplett überquert.
 
@@ -15,13 +19,13 @@ Unser Holzboot fuhr dann auch schon bald mit 3 fröhlich singenden Thais und uns
 
 Und so lässt es sich dann ganz gemütlich durch die Gegend schippern. Vorbei an einsamen Inseln die zum Träumen einladen und immer weiter die ruhige See entlang.
 
-<h2>“Easy Banana”</h2>
+## “Easy Banana”
 
 Dann steuerten wir auf einen großen Felsen im Meer zu. Und dann sahen wir auch den Mini-Steg an dem wir wohl andocken werden. Dieser Fels war die Insel *Koh Phee*. Allein von außen schon wunderschön. Das interessante ist aber, dass die Insel im inneren hohl ist. Und so wurden wir von unserem Guide diverse steile Wege hoch und runter gescheucht um diese wunderbare Höhe zu entdecken. Teilweise waren die Kletterpartien wirklich steil und schwierig, da half es auch nichts dass unser Guide alles mit “easy banana” kommentierte :D. Immer wieder gab es Durchbrüche nach außen mit wunderschönem Ausblick und da hatte man fast schon vergessen, welche Strapazen man auf sich nehmen musste um das zu sehen, aber auch nur fast...
 
 [gallery type="rectangular" ids="328,329,330,331,332,333,334,335,336" orderby="rand"]
 
-<h2>Koh Talabeng</h2>
+## Koh Talabeng
 
 Nachdem alle wieder heile die Leiter aus Autoreifen hinunter geklettert sind ging es wieder auf das Boot und weiter zur Insel *Koh Talabeng*. Dort hielt das Boot mitten im Wasser, die netten Thais warfen die Kayaks neben das Boot und wir durften hinüber klettern. Das Boot tuckerte dann fröhlich weiter, die Thais konnten sich ein “see you next week” nicht verkneifen und dann ging das eigentliche Kayaking los.
 
@@ -31,7 +35,7 @@ Nach der Pause paddelten wir noch kurz mit den Kayaks in eine Höhle und dann wu
 
 [gallery type="rectangular" ids="342,341,340,339" orderby="rand"]
 
-<h2>Rock Beach Bar</h2>
+## Rock Beach Bar
 
 Die Rock Beach Bar ist eine Strandbar an der nord-westlichen Spitze der Südinsel und liegt hier sehr abgelegen direkt am Strand. Der Pool selbst ist recht klein, aber da Nebensaison ist hatten wir ihn ganz für uns alleine und konnten diesen wunderbaren Tag in Ruhe ausklingen lassen.
 
@@ -39,6 +43,6 @@ Die Rock Beach Bar ist eine Strandbar an der nord-westlichen Spitze der Südinse
 
 Es ist schwer in Worte zu fassen wie angenehm beruhigend, ja fast schon meditativ das Gefühl ist das man bekommt, wenn man müde und glücklich von einem so schönen und sonnigen Tag mit einem Cocktail in der Hand im Pool sitzend den Sonnenuntergang betrachten kann. Wir haben lange überlegt, wie ein solcher Tag noch zu toppen ist. Und nein, wir haben nicht wirklich viele Ideen gehabt, wie das möglich wäre, werden aber berichten, ob wir es doch noch schaffen.
 
-<h3>Fröhliches neidisch sein,</h3>
+### Fröhliches neidisch sein,
 
-<img src="https://www.immerguteswetter.de/wp-content/uploads/2016/08/Verena-Flo-1.png" alt="Verena &amp; Flo" width="267" height="84" class="alignnone size-full wp-image-166" />
+<h1 class="signature">Verena & Flo</h1>

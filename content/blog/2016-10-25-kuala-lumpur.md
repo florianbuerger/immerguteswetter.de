@@ -1,11 +1,15 @@
 +++
 title = "Kuala Lumpur"
-date = "2016-10-25g"
+date = "2016-10-25"
 layout = "blog"
 image = "/img/Ice1.png"
+category = "Malaysia"
 +++
 
 Von der Insel zur Kleinstadt zur Millionenstadt. Kuala Lumpur hat 7 Millionen Einwohner. Gemessen an anderen Metropolen Asiens ist das eher wenig, daher zählt die Stadt für lokale Verhältnisse nicht als Großstadt. KL (wir haben gelernt, niemand in Malaysia sagt Kuala Lumpur, nicht effektiv genug) ist perfekt um innerhalb von Asien zu reisen. Der Flughafen wird von allen Airlines angeflogen und Malaysia bietet “Touristen” aus Deutschland ein 90 Tage Visum ohne weitere Fragen. Da wir auf unserem Weg nach Bali im November sowieso über KL geflogen wären dachten wir uns, wir verkürzen die Zeit in Georgetown und schauen hier auch noch einmal länger vorbei. 
+
+<!--more-->
+
 
 <h2>Ankommen mit dem Zug</h2>
 
@@ -42,4 +46,5 @@ Wir hatten großes Glück bei der Auswahl der Wohnung was die Lebensmittel-Einka
 Das war es erst einmal mit Neuigkeiten von unserer Seite. 
 
 <h3>Bis bald,</h3>
-<a href="https://www.immerguteswetter.de/wp-content/uploads/2016/08/Verena-Flo-1.png"><img src="https://www.immerguteswetter.de/wp-content/uploads/2016/08/Verena-Flo-1.png" alt="Verena &amp; Flo" width="267" height="84" class="size-full wp-image-166" /></a>
+
+<h1 class="signature">Verena & Flo</h1>

@@ -2,10 +2,14 @@
 title = "Warum wir ALLES verkauft haben"
 date = "2016-07-01"
 layout = "blog"
-image = "/img/Ice1.png"
+image = "/img/affe-17.jpg"
+category = "Blog"
 +++
 
 Wenn man erzählt, dass man alles verkaufen wird, was man besitzt und nicht in seinem Rucksack mitnehmen will, dann wird man ausnahmslos mit großen Augen angesehen. Erst nach diesen ersten 2 Sekunden unterscheiden sich dann die Reaktionen.
+
+<!--more-->
+
 
 Man kann richtig mit ansehen, wie es im Kopf rattert, wie versucht wird diese Aussage zu begreifen und mit diesem, doch ungewöhnlichen Vorhaben zurecht zu kommen. Die Reaktionen sind dann meist "Cool!", "Wow, klasse.", "Echt jetzt." oder "Oh.".
 
@@ -27,6 +31,6 @@ Und wenn wir jemals wieder Sesshaft werden sollten, dann haben wir die Möglichk
 
 In diesem Sinne: Fröhliches Aussortieren.
 
-<h3>Viele Grüße,</h3>
-<h3>eure</h3>
-<img class="alignnone size-full wp-image-168" src="https://www.immerguteswetter.de/wp-content/uploads/2016/08/Verena.png" alt="Verena" width="127" height="58" />
+### Viele Grüße,
+
+<h1 class="signature">Verena & Flo</h1>
