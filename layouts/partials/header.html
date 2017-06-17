@@ -1,2 +1,21 @@
 <header>
+<div>
+    <div>
+         <h1 class="header-title">
+         <a href="/">Immer Gutes Wetter</a>
+        </h1>
+        <h3 class="sub-header">Arbeiten wo (meist) die ☀️ scheint!</h3>
+    </div>
+
+<div class="boarder-header">
+    <nav class="nav-header">
+        {{ $currentNode := . }}
+        {{ range .Site.Menus.main }}
+        <div>
+            <a {{if or ($currentNode.IsMenuCurrent "main" .) ($currentNode.HasMenuCurrent "main" .) }} class="active"{{end}} href="{{ .URL }}">{{ .Name }}</a>
+        </div>
+        {{end}}
+    </nav>
+</div>
+</div>
 </header>

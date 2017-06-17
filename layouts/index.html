@@ -1,14 +1,58 @@
 <!DOCTYPE html>
 <html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
-	<head>
+
+<head>
 		{{ partial "head.html" . }}
-    <title>{{ .Site.Title }}</title>
-	</head>
-	<body>
+</head>
 
-	{{ partial "header.html"  . }} 
+<body>
 
-	<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum voluptates, tempore aperiam eius, labore, doloribus illum unde ullam adipisci sint impedit, dolor ipsum ad id quisquam itaque consequuntur ducimus sit?</p>
+{{ partial "header.html"  . }} 
+
+<p>Willkommen auf <strong>Immer gutes Wetter</strong>. Wir sind Verena & Flo und seit August 2016 sogenannte digitale Nomaden. Wir haben in Deutschland alles verkauft, was sich so angesammelt hat und sind mit <a href="">Rucksack und Laptop</a> losgezogen.</p>
+
+<h1 class="location">Hier sind wir gerade: Toronto, Kanada</span></h1>
+
+<p>Auf unserem Blog findet ihr alles mögliche [über uns](https://www.immerguteswetter.de/uber-uns/), was wir machen, wie wir das machen und natürlich viele, viele Geschichten über alles, was wir so erleben.</p>
+
+<p>Wir hoffen euch gefällt unsere Seite und ihr findet Inspirationen für euer nächstes Abenteuer.</p>
+
+
+<h1 class="index-sub-title">Der neuste Blogpost</h1>
+<img class="img-text" src="/img/me-writing.jpg" alt="">
+
+<ul>			
+	{{ range first 1 .Data.Pages }}
+		<li class="index-blog-container">
+		<div class="index-blog-left">
+			<div class="index-blog-summary-title"><a href="{{ .Permalink }}">{{ .Title }}</a></div>
+				<div class="index-blog-date lighter">
+				{{ .Date.Format "02 Januar 2006" }}
+					</div>
+				
+			</div>
+			<div class="index-blog-right">
+				<p class="index-blog-summary">
+				{{ .Summary }}
+				</p>
+				<div class="index-blog-readmore">
+				<a href='{{ .Permalink }}'><nobr><strong>Weiter lesen →</strong></nobr></a>
+				</div>
+			</div>
+		</li>
+			{{ end }}
+</ul>
+
+
+<h2>Unsere bisherige Reiseroute:</h2>
+[nwm_map id="1"]
+
+<h3>Schön, dass ihr da seid,</h3>
+<h1 class="signature">Verena & Flo</h1>
+	{{ partial "footer.html" . }}
+
+	<script src="{{ .Site.BaseURL }}js/functions.js"></script>
 
 	</body>
 </html>
+
