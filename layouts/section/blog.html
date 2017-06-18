@@ -11,17 +11,15 @@
 
 <main class="site-content">
 
-<h1 class="title-main">Blog</h1>
+<h1 class="title-main">Unser Blog</h1>
 
 <ul>			
 			{{ range .Data.Pages }}
 	<li class="blog-summary-row">
-
 <div class="">
-	<div class="hover-img">
+	<div class="hover03 column">
 		<a href="{{ .Permalink }}">
-			<figure>
-				<img class="blog-summary-img" src="{{ .Site.BaseURL}}{{ .Params.image }}" alt="">
+			<figure><img class="blog-summary-img" src="{{ .Site.BaseURL}}{{ .Params.image }}" alt="">
 			</figure>
 		</a>
 	</div>
@@ -47,7 +45,7 @@
 	</p>
 
 	<p>
-		<a href='{{ .Permalink }}'>Weiter lesen →</a>
+		<a class="blog-summary-read-more" href='{{ .Permalink }}'>Weiter lesen →</a>
 	</p>
 
 </div>
