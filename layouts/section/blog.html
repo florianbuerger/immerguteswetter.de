@@ -17,10 +17,14 @@
 			{{ range .Data.Pages }}
 	<li class="blog-summary-row">
 
-<div>
-	<a href="{{ .Permalink }}">
-		<img class="blog-summary-img" src="{{ .Site.BaseURL}}{{ .Params.image }}" alt="">
-	</a>
+<div class="">
+	<div class="hover-img">
+		<a href="{{ .Permalink }}">
+			<figure>
+				<img class="blog-summary-img" src="{{ .Site.BaseURL}}{{ .Params.image }}" alt="">
+			</figure>
+		</a>
+	</div>
 </div>
 
 <div class="blog-summary-column">
