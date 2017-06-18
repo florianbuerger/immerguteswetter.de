@@ -1,8 +1,8 @@
 +++
-title = "Auf dem Weg nach Koh Lanta"
+title = "Die ersten 2 Wochen auf Koh Lanta"
 date = "2016-08-14"
 layout = "blog"
-image = "/img/Ice1.png"
+image = "/img/koh-lanta-10.jpg"
 category = "Thailand"
 +++
 

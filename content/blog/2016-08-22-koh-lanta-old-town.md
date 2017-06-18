@@ -2,7 +2,7 @@
 title = "Koh Lanta Old Town"
 date = "2016-08-22"
 layout = "blog"
-image = "/img/Ice1.png"
+image = "/img/oldtown-1.jpg"
 category = "Thailand"
 +++
 
@@ -25,7 +25,15 @@ Old Town selbst ist eine Ansammlung an Häuschen an einer Strasse die Küste ent
 
 Unsere erste Station war das [Beautiful Restaurant](http://lantaoldtown.com/restaurants/beautiful-restaurant) am nördlichen Ende besagter Strasse. Und ja, der Name verspricht nicht zu viel. Das Restaurant ist auf Stegen ins Wasser gebaut. Es war zwar gerade Ebbe aber dennoch hatten wir einen sehr schönen Blick über das Meer, zahlreiche Fischerboote und Einheimische, die den Strand nach Muscheln und Krebsen absuchten. Auch das Essen selbst war wieder mal sehr leckere Thaiküche und so konnten wir gut gestärkt weiter ziehen.
 
-[gallery type="rectangular" ids="270,275,273,272,271,274"]
+<div class="blog-post-gallery">
+<img src="/img/oldtown-1.jpg" alt="">
+<img src="/img/oldtown-2.jpg" alt="">
+<img src="/img/oldtown-3.jpg" alt="">
+<img src="/img/oldtown-4.jpg" alt="">
+<img src="/img/oldtown-5.jpg" alt="">
+<img src="/img/oldtown-6.jpg" alt="">
+</div>
+
 
 ## Elefantenhosen und mehr
 

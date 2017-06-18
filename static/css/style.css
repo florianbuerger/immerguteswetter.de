@@ -48,10 +48,17 @@ ul {
   list-style: none;
 }
 
+ul p a {
+  color: var(--fun-color);
+  text-decoration: none;
+/*  border-bottom: 1px solid var(--fun-color);
+*/}
 
-img {
-  height: 100%;
+ul p a:hover {
+  color: var(--text-color);
 }
+
+
 
 .signature {
   font-family: var(--font-signature);
@@ -175,7 +182,22 @@ header {
   width: 100%;
 }
 
+.blog-post-gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 0 -3em;
+}
 
+.blog-post-gallery img {
+  width: 30%;
+  height: auto;
+  padding: 1em 0;
+}
+
+.blog-post-img-single {
+  width: 100%;
+}
 
 
 

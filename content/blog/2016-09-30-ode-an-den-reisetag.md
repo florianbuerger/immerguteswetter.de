@@ -2,7 +2,7 @@
 title = "Ode an den Reisetag"
 date = "2016-09-30"
 layout = "blog"
-image = "/img/Ice1.png"
+image = "/img/reisetag.jpg"
 category = "Blog"
 +++
 
