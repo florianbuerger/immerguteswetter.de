@@ -15,7 +15,7 @@
 
 <p>Willkommen auf <strong>Immer gutes Wetter</strong>. Wir sind Verena & Flo und seit August 2016 sogenannte digitale Nomaden. Wir haben in Deutschland alles verkauft, was sich so angesammelt hat und sind mit <a href="">Rucksack und Laptop</a> losgezogen.</p>
 
-<h1 class="location">Hier sind wir gerade: Toronto, Kanada</span></h1>
+<h1 class="location color-background">Hier sind wir gerade: <br> Toronto, Kanada</span></h1>
 
 <p>Auf unserem Blog findet ihr alles mögliche <a href="">über uns</a>, was wir machen, wie wir das machen und natürlich viele, viele Geschichten über alles, was wir so erleben.</p>
 
@@ -23,8 +23,8 @@
 
 
 
-<div class="index-latest-post color-background">
-	<h1>Der neuste Blogpost</h1>
+<div class="index-latest-post">
+	<h2 class="color-background index-sub-title">Der neuste Blogpost</h2>
 
 {{ range first 1 .Data.Pages }}
 		<div>
@@ -33,7 +33,7 @@
 			</h2>
 		</div>
 		<div class="index-latest-post-date">
-			{{ .Date.Format "02. 01. 2006" }}
+			Veröffentlicht am {{ .Date.Format "02. 01. 2006" }}
 		</div>
 		<a href="{{ .Permalink }}">
 			<img class="index-latest-post-img" src="{{ .Site.BaseURL}}{{ .Params.image }}" alt="">
@@ -43,17 +43,15 @@
 				{{ .Summary }}
 			</p>
 			<div>
-				<a href='{{ .Permalink }}'><nobr><strong>Weiter lesen →</strong></nobr></a>
+				<a class="index-read-more" href='{{ .Permalink }}'><nobr><strong>Weiter lesen →</strong></nobr></a>
 			</div>
 			{{ end }}
 	</div>
 </div>
 
-<h2>Unsere bisherige Reiseroute:</h2>
-<!-- [nwm_map id="1"]-->
+<h2 class="color-background index-sub-title">Unsere bisherige Reiseroute</h2>
 
-<!-- <h3>Schön, dass ihr da seid,</h3>
-<h1 class="signature">Verena & Flo</h1> -->
+<img class="index-world-map" src="/img/world-map.png" alt="">
 
 
 	<script src="{{ .Site.BaseURL }}js/functions.js"></script>
