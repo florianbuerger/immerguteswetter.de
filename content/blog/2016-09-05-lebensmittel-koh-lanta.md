@@ -7,7 +7,9 @@ category = "Thailand"
 +++
 
 Regelmäßig werden wir von allen möglichen Leuten gefragt, was wir denn so erlebt haben. Natürlich wollen die meisten dann etwas über super Abenteuer hören, die man sonst nicht haben würde (schwimmen mit Haien, auf Elefanten reiten, Affen streicheln und so weiter). 
+
 <!--more-->
+
 Aber als digitaler Nomade, kann auch der normale Alltag schon sehr interessant und spannend sein. Denn wie ja bekannt ist, sind wir an den meisten Orten für mehrere Wochen, wenn nicht gar Monate. Und so sind wir auch auf Koh Lanta für knapp 2 Monate. Das heisst, dass wir hier auch normale Alltagsdinge erledigen müssen. Also freut euch über unser Abenteuer: Lebensmittel einkaufen auf Koh Lanta.
 
 Lebensmittel einkaufen ist in der gewohnten Umgebung in Deutschland ein Ding der Selbstverständlichkeit. Es ist bekannt in welchen Läden welche Dinge zu bekommen sind und wie man zu diesem Laden kommt. Aber wenn man in Thailand auf einer recht kleinen Insel wohnt, dann sind schon banale Dinge wie Salz kaufen tatsächlich gar nicht so einfach. Auch wenn der Laden gefunden wurde, der das Potenzial hat Salz zu verkaufen, dann muss man doch raten, ob diese thailändischen Schriftzeichen nun Salz bedeuten könnten oder nicht. Wir haben dann auf gut Glück einen dieser Beutel gekauft und hatten Glück und es war wirklich Salz. 
@@ -37,14 +39,14 @@ Und so machten wir uns neuen Mutes am nächsten Tag auf zum Markt. Und wir haben
 Also konnte unser erster großer Einkauf starten. Bei Obst und Gemüse waren uns die meisten Dinge die da so lagen bekannt und wir konnten Kartoffeln, Möhren und Co. in unseren Korb häufen. Bei anderen Dingen ging es uns dann eher wie beim Salz am Anfang und wir haben auf gut Glück alles mögliche einmal eingepackt um dann zu Hause zu testen, was wir da denn gefunden haben. Und wir haben durchaus leckere Dinge entdeckt auf diese Weise. Und auch der Preis freut vor allem das Schwabenherz. Im Normalfall zahlen wir für Obst, Gemüse und Tofu welches für ca. 4 Tage uns beiden reicht etwa 400 Bath, das sind umgerechnet etwa 10 Euro. 
 
 <div class="blog-post-gallery">
-<img src="/img/koh-lanta-2.jpg" alt="">
-<img src="/img/koh-lanta-3.jpg" alt="">
-<img src="/img/koh-lanta-4.jpg" alt="">
-<img src="/img/koh-lanta-5.jpg" alt="">
-<img src="/img/koh-lanta-6.jpg" alt="">
-<img src="/img/koh-lanta-7.jpg" alt="">
-<img src="/img/koh-lanta-8.jpg" alt="">
-<img src="/img/koh-lanta-9.jpg" alt="">
+<div><img src="/img/koh-lanta-2.jpg" alt=""></div>
+<div><img src="/img/koh-lanta-3.jpg" alt=""></div>
+<div><img src="/img/koh-lanta-4.jpg" alt=""></div>
+<div><img src="/img/koh-lanta-5.jpg" alt=""></div>
+<div><img src="/img/koh-lanta-6.jpg" alt=""></div>
+<div><img src="/img/koh-lanta-7.jpg" alt=""></div>
+<div><img src="/img/koh-lanta-8.jpg" alt=""></div>
+<div><img src="/img/koh-lanta-9.jpg" alt=""></div>
 </div>
 
 Warum unser Vermieter uns nichts von den Märkten erzählt hat fragt ihr euch nun? Na das haben wir ihn auch gefragt. Er hat uns dann erklärt, dass  seine Frau, eine Thailänderin, für die Lebensmittel zuständig ist und er garnicht so genau weiss, wo die her kommen. Gut zu wissen, aber nachdem wir nun schon ein paar Mal auf dem Markt waren können wir sagen, dass er einiges verpasst, wenn er hier nicht ab uns zu einmal durch die Reihen schlendert.

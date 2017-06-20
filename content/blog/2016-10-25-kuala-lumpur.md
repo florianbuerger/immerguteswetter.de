@@ -35,17 +35,17 @@ Wir wohnen hier allerdings nicht wie zu Anfang gedacht in KL selber sondern in e
 Unser Haus liegt an einem Hang, und obwohl der Pool lediglich im 6. Stock ist hat man von dort eine nette Aussicht über die Stadt. Ja, richtig. Wir haben einen Pool im Haus. Ebenso einen Fitness Raum mit Gewichten, Laufbändern, Cross Trainer und Kraftmaschinen und eine Sauna—die haben wir allerdings noch nicht besucht. Diese Ausstattung ist in Asien völlig normal. Unser Haus ist sogar noch sehr bescheiden. Andere bieten mehrere Pools, Tennisplätze oder Squash Anlagen und ein Inserat mit einer Eislaufbahn haben wir auch gesehen. Es lässt sich also aushalten. 
 
 <div class="blog-post-gallery">
-<img src="/img/kl-10.jpg" alt="">
-<img src="/img/kl-11.jpg" alt="">
-<img src="/img/kl-12.jpg" alt="">
+<div><img src="/img/kl-10.jpg" alt=""></div>
+<div><img src="/img/kl-11.jpg" alt=""></div>
+<div><img src="/img/kl-12.jpg" alt=""></div>
 </div>
 
 Wir wohnen im 21. Stockwerk. Die Unterkunft ist sehr geräumig, wir haben 2 Zimmer und einen Balkon.  Die “Küche” stellte uns vor mehr Herausforderungen. Wir haben <strong>eine</strong> Herdplatte und <strong>zwei</strong> Pfannen zur Verfügung. Zum Glück sind wir flexibel und lassen uns dadurch nicht einschränken, bisher haben wir fast jeden Tag gekocht.
 
 <div class="blog-post-gallery">
-<img src="/img/kl-0.jpg" alt="">
-<img src="/img/kl-14.jpg" alt="">
-<img src="/img/kl-15.jpg" alt="">
+<div><img src="/img/kl-0.jpg" alt=""></div>
+<div><img src="/img/kl-14.jpg" alt=""></div>
+<div><img src="/img/kl-15.jpg" alt=""></div>
 </div>
 
 ## Einkaufen

@@ -23,10 +23,15 @@
 
 
 
-<div class="index-latest-post">
+<div>
 	<h2 class="color-background index-sub-title">Der neuste Blogpost</h2>
 
-{{ range first 1 .Data.Pages }}
+<!-- {{ range first 1 .Data.Pages }} -->
+<!-- <div class="index-latest-post">
+		
+		<a href="{{ .Permalink }}">
+			<img class="index-latest-post-img" src="{{ .Site.BaseURL}}{{ .Params.image }}" alt="">
+		</a>
 		<div>
 			<h2>
 				<a href="{{ .Permalink }}">{{ .Title }}</a>
@@ -35,9 +40,6 @@
 		<div class="index-latest-post-date">
 			Veröffentlicht am {{ .Date.Format "02. 01. 2006" }}
 		</div>
-		<a href="{{ .Permalink }}">
-			<img class="index-latest-post-img" src="{{ .Site.BaseURL}}{{ .Params.image }}" alt="">
-		</a>
 	<div>
 			<p>
 				{{ .Summary }}
@@ -47,6 +49,48 @@
 			</div>
 			{{ end }}
 	</div>
+</div> -->
+
+<ul>			
+			{{ range first 1 .Data.Pages }}
+	<li class="blog-summary-row">
+<div>
+	<div class="hover03 column">
+		<a href="{{ .Permalink }}">
+			<figure><img class="blog-summary-img" src="{{ .Site.BaseURL}}{{ .Params.image }}" alt="">
+			</figure>
+		</a>
+	</div>
+</div>
+
+<div class="blog-summary-column">
+	<div class="blog-summary-category">
+
+		{{ .Params.Category }}
+	</div>
+
+	<h2 class="blog-summary-title">
+		<a href="{{ .Permalink }}">{{ .Title }}</a>
+	</h2>		
+
+	<div class="blog-summary-date">
+		Veröffentlicht am {{ .Date.Format "02. 01. 2006" }}
+	</div>
+				
+
+	<p>
+		{{ .Summary }}
+	</p>
+
+	<p>
+		<a class="blog-summary-read-more" href='{{ .Permalink }}'>Weiter lesen →</a>
+	</p>
+
+</div>
+
+	</li>
+	{{ end }}
+</ul>
 </div>
 
 <h2 class="color-background index-sub-title">Unsere bisherige Reiseroute</h2>

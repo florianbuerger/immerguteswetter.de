@@ -17,21 +17,21 @@ Unsere Wohnung liegt etwas westlich der Innenstadt, diese ist innerhalb von 20 M
 Leider war das Wetter während unserer Woche in Amsterdam nicht sonderlich sonnig. Abwechseln war es wolkig mit und wolkig ohne Schnee. Aber davon darf man sich ja nicht abhalten lassen. Wozu haben wir uns denn sonst mit super-duper Winterjacken ausgestattet.
 
 <div class="blog-post-gallery">
-<img src="/img/amsterdam-1.jpg" alt="">
-<img src="/img/amsterdam-2.jpg" alt="">
-<img src="/img/amsterdam-3.jpg" alt="">
-<img src="/img/amsterdam-4.jpg" alt="">
-<img src="/img/amsterdam-5.jpg" alt="">
-<img src="/img/amsterdam-6.jpg" alt="">
-<img src="/img/amsterdam-7.jpg" alt="">
-<img src="/img/amsterdam-8.jpg" alt="">
-<img src="/img/amsterdam-9.jpg" alt="">
-<img src="/img/amsterdam-10.jpg" alt="">
-<img src="/img/amsterdam-11.jpg" alt="">
-<img src="/img/amsterdam-12.jpg" alt="">
-<img src="/img/amsterdam-13.jpg" alt="">
-<img src="/img/amsterdam-14.jpg" alt="">
-<img src="/img/amsterdam-15.jpg" alt="">
+<div><img src="/img/amsterdam-1.jpg" alt=""></div>
+<div><img src="/img/amsterdam-2.jpg" alt=""></div>
+<div><img src="/img/amsterdam-3.jpg" alt=""></div>
+<div><img src="/img/amsterdam-4.jpg" alt=""></div>
+<div><img src="/img/amsterdam-5.jpg" alt=""></div>
+<div><img src="/img/amsterdam-6.jpg" alt=""></div>
+<div><img src="/img/amsterdam-7.jpg" alt=""></div>
+<div><img src="/img/amsterdam-8.jpg" alt=""></div>
+<div><img src="/img/amsterdam-9.jpg" alt=""></div>
+<div><img src="/img/amsterdam-10.jpg" alt=""></div>
+<div><img src="/img/amsterdam-11.jpg" alt=""></div>
+<div><img src="/img/amsterdam-12.jpg" alt=""></div>
+<div><img src="/img/amsterdam-13.jpg" alt=""></div>
+<div><img src="/img/amsterdam-14.jpg" alt=""></div>
+<div><img src="/img/amsterdam-15.jpg" alt=""></div>
 </div>
 
 Was uns entgegenkommt ist, dass es in Amsterdam nicht wirklich viele Sightseeing Dinge gibt. Diese Touristenmagnete mögen wir ja sowieso nicht. Daher konnten wir unserer Leidenschaft nachgehen und einfach den ganzen Tag durch die Stadt schlendern. Uns von Kanal zu Kanal weiter in das Zentrum vorarbeiten und die Reihen an schönen Häusern bewundern. Man merkt recht schnell, dass man sich dem Stadtzentrum nähert, da sich hier immer mehr Leute tummeln. Also schnell wieder Wege finden auf denen weniger Menschen gehen und dort weiter schlendern.

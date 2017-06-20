@@ -20,9 +20,9 @@ Wir durften bereits am zweiten Tag herausfinden, dass es sehr hart ist, mit Vere
 Unser Weg führte uns von der Innenstadt, entlang des Yachthafen zum English Bay Beach, an dem wir ein paar sonnige Minuten verbringen konnten. Weiter ging es ein Stück durch den Stanley Park zum großen Yachthafen in Richtung Canada Place, an dem wir endlich etwas zu Essen bekamen. Erste Erfahrung mit einem leckeren Foodtruck in Kanada abgehakt, da ging es auch schon weiter nach Gastown, um die gewisse Kaffeesucht einer bestimmten Person zu befriedigen. Wer diese Plätze nun auf einer Karte ansieht, stellt fest, dass es wirklich ein weiter weiter Weg war. 
 
 <div class="blog-post-gallery">
-<img src="/img/vancouver-4.png" alt="">
-<img src="/img/vancouver-5.png" alt="">
-<img src="/img/vancouver-3.png" alt="">
+<div><img src="/img/vancouver-4.png" alt=""></div>
+<div><img src="/img/vancouver-5.png" alt=""></div>
+<div><img src="/img/vancouver-3.png" alt=""></div>
 </div>
 
 Der nächste Tag war verregnet und führte uns (Dani und Tim) dann spontan in die zweit größte Mall Kanadas, in der wir den ganzen Tag verbrachten ohne viel zu kaufen.
@@ -30,9 +30,9 @@ Der nächste Tag war verregnet und führte uns (Dani und Tim) dann spontan in di
 Am vierten Tag wurden wir wieder mit Sonne verwöhnt und verbrachten alle zusammen einen schönen Tag. Mit dem Busshuttle fuhren wir in den Bridge Park, wo wir der beeindruckenden Natur Kanadas näher kommen durften. Anschließend füllten wir unsere Mägen in Granville Island mit lecker Essen.
 
 <div class="blog-post-gallery">
-<img src="/img/vancouver-6.png" alt="">
-<img src="/img/vancouver-7.png" alt="">
-<img src="/img/vancouver-8.png" alt="">
+<div><img src="/img/vancouver-6.png" alt=""></div>
+<div><img src="/img/vancouver-7.png" alt=""></div>
+<div><img src="/img/vancouver-8.png" alt=""></div>
 </div>
 
 Nun hatten wir schon alles auf unserer Liste gesehen und schlenderten an unseren letzten beiden Tagen planlos durch die Stadt, kauften Souvenirs, aßen lecker Dinge und genossen die Zeit. 

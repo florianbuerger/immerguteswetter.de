@@ -8,7 +8,7 @@ layout = "default"
 
 <h1 class="title-main">Über uns</h1>
 
-Schön, dass ihr uns gefunden habt. Wir sind Verena &amp; Flo und sind seit August 2016 sogenannte digitale Nomaden. Wir haben in Deutschland [alles verkauft](www.immerguteswetter.de/blog/2016-07-01-alles-verkauft), was sich so angesammelt hat und sind mit [Rucksack und Laptop losgezogen.
+Schön, dass ihr uns gefunden habt. Wir sind Verena &amp; Flo und sind seit August 2016 sogenannte digitale Nomaden. Wir haben in Deutschland [alles verkauft](www.immerguteswetter.de/blog/2016-07-01-alles-verkauft), was sich so angesammelt hat und sind mit Rucksack und Laptop losgezogen.
 
 Bei vielen kommen hier die Fragen auf, warum wir das machen, was wir denn dann die ganze Zeit machen und wie wir das alles finanzieren.
 

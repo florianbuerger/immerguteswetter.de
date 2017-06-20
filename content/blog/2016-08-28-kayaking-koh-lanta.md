@@ -24,16 +24,16 @@ Und so lässt es sich dann ganz gemütlich durch die Gegend schippern. Vorbei an
 Dann steuerten wir auf einen großen Felsen im Meer zu. Und dann sahen wir auch den Mini-Steg an dem wir wohl andocken werden. Dieser Fels war die Insel *Koh Phee*. Allein von außen schon wunderschön. Das interessante ist aber, dass die Insel im inneren hohl ist. Und so wurden wir von unserem Guide diverse steile Wege hoch und runter gescheucht um diese wunderbare Höhe zu entdecken. Teilweise waren die Kletterpartien wirklich steil und schwierig, da half es auch nichts dass unser Guide alles mit “easy banana” kommentierte :D. Immer wieder gab es Durchbrüche nach außen mit wunderschönem Ausblick und da hatte man fast schon vergessen, welche Strapazen man auf sich nehmen musste um das zu sehen, aber auch nur fast...
 
 <div class="blog-post-gallery">
-<img src="/img/kayaking-1.jpg" alt="">
-<img src="/img/kayaking-2.jpg" alt="">
-<img src="/img/kayaking-3.jpg" alt="">
-<img src="/img/kayaking-4.jpg" alt="">
-<img src="/img/kayaking-5.jpg" alt="">
-<img src="/img/kayaking-6.jpg" alt="">
-<img src="/img/kayaking-7.jpg" alt="">
-<img src="/img/kayaking-8.jpg" alt="">
-<img src="/img/kayaking-9.jpg" alt="">
-<img src="/img/kayaking-10.jpg" alt="">
+<div><img src="/img/kayaking-1.jpg" alt=""></div>
+<div><img src="/img/kayaking-2.jpg" alt=""></div>
+<div><img src="/img/kayaking-3.jpg" alt=""></div>
+<div><img src="/img/kayaking-4.jpg" alt=""></div>
+<div><img src="/img/kayaking-5.jpg" alt=""></div>
+<div><img src="/img/kayaking-6.jpg" alt=""></div>
+<div><img src="/img/kayaking-7.jpg" alt=""></div>
+<div><img src="/img/kayaking-8.jpg" alt=""></div>
+<div><img src="/img/kayaking-9.jpg" alt=""></div>
+<div><img src="/img/kayaking-10.jpg" alt=""></div>
 </div>
 
 
@@ -46,11 +46,11 @@ Immer 2 Personen pro Kayak mit Paddeln ausgestattet ging es dann einmal um die I
 Nach der Pause paddelten wir noch kurz mit den Kayaks in eine Höhle und dann wurde auch schon das Boot wieder bestiegen und fuhr uns zurück nach Koh Lanta. Erschöpft von Wind, Sonne und dem Paddeln entschieden wir, dass wir uns am Besten in einen Pool legen sollten. Also ging es auf zur [Rock Beach Bar](https://www.facebook.com/rockbeachbar/).
 
 <div class="blog-post-gallery">
-<img src="/img/kayaking-11.jpg" alt="">
-<img src="/img/kayaking-12.jpg" alt="">
-<img src="/img/kayaking-13.jpg" alt="">
-<img src="/img/kayaking-14.jpg" alt="">
-<img src="/img/kayaking-15.jpg" alt="">
+<div><img src="/img/kayaking-11.jpg" alt=""></div>
+<div><img src="/img/kayaking-12.jpg" alt=""></div>
+<div><img src="/img/kayaking-13.jpg" alt=""></div>
+<div><img src="/img/kayaking-14.jpg" alt=""></div>
+<div><img src="/img/kayaking-15.jpg" alt=""></div>
 </div>
 
 ## Rock Beach Bar
@@ -58,10 +58,10 @@ Nach der Pause paddelten wir noch kurz mit den Kayaks in eine Höhle und dann wu
 Die Rock Beach Bar ist eine Strandbar an der nord-westlichen Spitze der Südinsel und liegt hier sehr abgelegen direkt am Strand. Der Pool selbst ist recht klein, aber da Nebensaison ist hatten wir ihn ganz für uns alleine und konnten diesen wunderbaren Tag in Ruhe ausklingen lassen.
 
 <div class="blog-post-gallery">
-<img src="/img/kayaking-16.jpg" alt="">
-<img src="/img/kayaking-17.jpg" alt="">
-<img src="/img/kayaking-18.jpg" alt="">
-<img src="/img/kayaking-19.jpg" alt="">
+<div><img src="/img/kayaking-16.jpg" alt=""></div>
+<div><img src="/img/kayaking-17.jpg" alt=""></div>
+<div><img src="/img/kayaking-18.jpg" alt=""></div>
+<div><img src="/img/kayaking-19.jpg" alt=""></div>
 </div>
 
 Es ist schwer in Worte zu fassen wie angenehm beruhigend, ja fast schon meditativ das Gefühl ist das man bekommt, wenn man müde und glücklich von einem so schönen und sonnigen Tag mit einem Cocktail in der Hand im Pool sitzend den Sonnenuntergang betrachten kann. Wir haben lange überlegt, wie ein solcher Tag noch zu toppen ist. Und nein, wir haben nicht wirklich viele Ideen gehabt, wie das möglich wäre, werden aber berichten, ob wir es doch noch schaffen.

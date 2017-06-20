@@ -20,15 +20,15 @@ Unsere erste Station in Malaysia ist George Town, die Hauptstadt der Insel und d
 So beherbergen die Mehrzahl der meist 2-3-stöckigen Häuser im Erdgeschoss ein Restaurant, Ladengeschäft oder undefinierbares Dienstleistungs-Produkt-Service-Verkaufs-Kunst-Werkstatt-Dings. Viele Geschäfte verkaufen skurriler weise Rasenmäher, Bohrmaschinen und sonstige Heimwerker Gerätschaften. Auch gibt es sehr viel Weihnachtsdekorationen. Scheinbar existiert der Trend nicht nur in Deutschland, auch auf der anderen Seite der Welt können Menschen es kaum erwarten, ihre Häuser in blinkendes Plastik einzupacken.
 
 <div class="blog-post-gallery">
-<img src="/img/penang-9.jpg" alt="">
-<img src="/img/penang-2.jpg" alt="">
-<img src="/img/penang-21.jpg" alt="">
-<img src="/img/penang-15.jpg" alt="">
-<img src="/img/penang-11.jpg" alt="">
-<img src="/img/penang-6.jpg" alt="">
-<img src="/img/penang-1.jpg" alt="">
-<img src="/img/penang-7.jpg" alt="">
-<img src="/img/penang-19.jpg" alt="">
+<div><img src="/img/penang-9.jpg" alt=""></div>
+<div><img src="/img/penang-2.jpg" alt=""></div>
+<div><img src="/img/penang-21.jpg" alt=""></div>
+<div><img src="/img/penang-15.jpg" alt=""></div>
+<div><img src="/img/penang-11.jpg" alt=""></div>
+<div><img src="/img/penang-6.jpg" alt=""></div>
+<div><img src="/img/penang-1.jpg" alt=""></div>
+<div><img src="/img/penang-7.jpg" alt=""></div>
+<div><img src="/img/penang-19.jpg" alt=""></div>
 </div>
 
 ## Little India
@@ -68,13 +68,13 @@ Eine weitere Alternative für die Essensaufnahme sind Cafés. Diese sind meist s
 Gerade sitzen wir im [Mugshot](https://www.facebook.com/themugshotcafepenang/ "Facebook Seite des Mugshot Café") in einem netten kleinen Innenhof bei Kaffee und Bagel und tippen diese Zeilen. Gleich nebenan hat es die [Rainforest Bakery](https://www.facebook.com/rainforestbakerypenang/) mit super leckeren Windbeuteln, Schoko-Versuchungen und allerlei anderer Köstlichkeiten.
 
 <div class="blog-post-gallery">
-<img src="/img/penang-17.jpg" alt="">
-<img src="/img/penang-16.jpg" alt="">
-<img src="/img/penang-10.jpg" alt="">
-<img src="/img/penang-13.jpg" alt="">
-<img src="/img/penang-8.jpg" alt="">
-<img src="/img/penang-3.jpg" alt="">
-<img src="/img/penang-5.jpg" alt="">
+<div><img src="/img/penang-17.jpg" alt=""></div>
+<div><img src="/img/penang-16.jpg" alt=""></div>
+<div><img src="/img/penang-10.jpg" alt=""></div>
+<div><img src="/img/penang-13.jpg" alt=""></div>
+<div><img src="/img/penang-8.jpg" alt=""></div>
+<div><img src="/img/penang-3.jpg" alt=""></div>
+<div><img src="/img/penang-5.jpg" alt=""></div>
 </div>
 
 Da Verena jetzt meckert dass sie jetzt sofort Windbeutel haben will machen wir jetzt auch Schluss. Sonst wirft sie sich wieder heulend auf den Boden und ich werde komisch von der Seite angeschaut.
