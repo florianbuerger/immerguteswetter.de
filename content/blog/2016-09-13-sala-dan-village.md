@@ -6,10 +6,10 @@ image = "/img/saladan-4.jpg"
 category = "Thailand"
 +++
 
-Die größte “Stadt” auf Koh Lanta ist Sala Dan Village. Sie liegt am nördlichsten Teil der Südinsel und beherbergt auch den Hafen. Das bedeutet dass jeder, der auf der Insel ankommt zuerst Sala Dan sieht. Von hier aus verteilt es sich dann Richtung Süden. Umso weiter man in den Süden kommt umso weniger Touristen sind zu finden. Die kleinere Nordinsel ist zu beinahe 100% Einheimischen vorbehalten. Man kann diese zwar mit dem Roller erkunden, aber Hotels findet man hier keine.
-
+Die größte “Stadt” auf Koh Lanta ist Sala Dan Village. Sie liegt am nördlichsten Teil der Südinsel und beherbergt auch den Hafen. Das bedeutet dass jeder, der auf der Insel ankommt zuerst Sala Dan sieht. 
 <!--more-->
 
+Von hier aus verteilt es sich dann Richtung Süden. Umso weiter man in den Süden kommt umso weniger Touristen sind zu finden. Die kleinere Nordinsel ist zu beinahe 100% Einheimischen vorbehalten. Man kann diese zwar mit dem Roller erkunden, aber Hotels findet man hier keine.
 
 Sala Dan besteht hauptsächlich aus Restaurants, Massage-Studios und Läden mit Kleidung und Souvenirs. Da noch immer Nebensaison ist war auch hier recht viel noch geschlossen. Dafür waren aber auch kaum Touristen unterwegs. Die Haupt-Touristenstrasse führt vom Hafen Richtung Westen. Hier reihen sich Restaurant an Restaurant, nur unterbrochen vom ein oder anderen Massage-Studio. Das interessante an dieser Strasse ist, dass sie selbst nicht am Wasser gebaut ist sondern die Restaurants die Strasse vom Wasser trennen. Daher haben alle Restaurants auch eine sehr schöne Lage mit einer Terrasse über dem Wasser. Natürlich mussten wir uns dann auch in ein solches setzen und einen Schoko-Bananen-Shake trinken (ja, eine sehr leckere Kombination!). Und bei so einer Aussicht und umgeben vom rauschen der Wellen schmeckt der gleich doppelt so gut.
 

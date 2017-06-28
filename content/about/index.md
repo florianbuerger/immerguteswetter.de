@@ -10,8 +10,6 @@ layout = "default"
 
 Schön, dass ihr uns gefunden habt. Wir sind Verena &amp; Flo und sind seit August 2016 sogenannte digitale Nomaden. Wir haben in Deutschland [alles verkauft](www.immerguteswetter.de/blog/2016-07-01-alles-verkauft), was sich so angesammelt hat und sind mit Rucksack und Laptop losgezogen.
 
-Bei vielen kommen hier die Fragen auf, warum wir das machen, was wir denn dann die ganze Zeit machen und wie wir das alles finanzieren.
-
 ![](/img/flo-1.jpg)
 
 
@@ -33,4 +31,4 @@ Falls ihr immer auf dem neuesten Stand sein wollt, dann empfehlen wir euch unser
 
 ## P.S.: Hier unsere bisherige Reiseroute:
 
-<img src="/img/world-map.png" alt="">
+<div style="position: relative;margin: 5px 0 5px 0;padding-bottom: 56.25%;height: 0;clear: both;"><iframe style="position: absolute;top: 0;left: 0;width: 100%;height: 100%;border: 0;" src="https://www.tripline.net/map?tripId=14632050231010138626D8E580228723&onSite=0" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>

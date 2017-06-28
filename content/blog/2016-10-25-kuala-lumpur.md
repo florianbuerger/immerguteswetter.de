@@ -6,9 +6,11 @@ image = "/img/kl-0.jpg"
 category = "Malaysia"
 +++
 
-Von der Insel zur Kleinstadt zur Millionenstadt. Kuala Lumpur hat 7 Millionen Einwohner. Gemessen an anderen Metropolen Asiens ist das eher wenig, daher zählt die Stadt für lokale Verhältnisse nicht als Großstadt. KL (wir haben gelernt, niemand in Malaysia sagt Kuala Lumpur, nicht effektiv genug) ist perfekt um innerhalb von Asien zu reisen. Der Flughafen wird von allen Airlines angeflogen und Malaysia bietet “Touristen” aus Deutschland ein 90 Tage Visum ohne weitere Fragen. Da wir auf unserem Weg nach Bali im November sowieso über KL geflogen wären dachten wir uns, wir verkürzen die Zeit in Georgetown und schauen hier auch noch einmal länger vorbei. 
+Von der Insel zur Kleinstadt zur Millionenstadt. Kuala Lumpur hat 7 Millionen Einwohner. Gemessen an anderen Metropolen Asiens ist das eher wenig, daher zählt die Stadt für lokale Verhältnisse nicht als Großstadt.
 
 <!--more-->
+
+KL (wir haben gelernt, niemand in Malaysia sagt Kuala Lumpur, nicht effektiv genug) ist perfekt um innerhalb von Asien zu reisen. Der Flughafen wird von allen Airlines angeflogen und Malaysia bietet “Touristen” aus Deutschland ein 90 Tage Visum ohne weitere Fragen. Da wir auf unserem Weg nach Bali im November sowieso über KL geflogen wären dachten wir uns, wir verkürzen die Zeit in Georgetown und schauen hier auch noch einmal länger vorbei. 
 
 
 ## Ankommen mit dem Zug

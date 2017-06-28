@@ -2,7 +2,7 @@
 title = "Vorfreude"
 date = "2016-06-03"
 layout = "blog"
-image = "/img/affe-17.jpg"
+image = "/img/affe-15.jpg"
 category = "Blog"
 +++
 

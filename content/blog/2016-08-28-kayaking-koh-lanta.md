@@ -6,7 +6,7 @@ image = "/img/kayaking-1.jpg"
 category = "Thailand"
 +++
 
-Wenn man Freitag abends mit ein paar netten Leuten aus allen möglichen Gegenden der Welt zusammensitzt und dann die Idee aufkommt, dass man am Sonntag doch einen Kayak-Ausflug machen könnte, dann hört sich das nach einer recht guten Idee an. Wenn es dann aber Sonntag morgens 8 Uhr ist und man wirklich Richtung Abenteuer aufbricht, dann fragt man sich doch, worauf man sich da eigentlich eingelassen hat.
+Wenn man Freitag abends mit ein paar netten Leuten aus allen möglichen Ecken der Welt zusammensitzt und die Idee aufkommt, dass man am Sonntag einen Kayak-Ausflug machen könnte, dann hört sich das nach einer recht guten Idee an. Wenn es dann aber Sonntag morgens 8 Uhr ist und man wirklich Richtung Abenteuer aufbricht fragt man sich doch, worauf man sich da eingelassen hat.
 
 <!--more-->
 

@@ -6,7 +6,7 @@ image = "/img/rucksack.jpg"
 category = "Blog"
 +++
 
-Neue Länder, neue Kleidung. Nachdem wir nun nach einem halben Jahr in Südost-Asien bei 30 Grad verbringen durften, müssen wir unsere Garderobe nun etwas an die -10 bis +10 Grad anpassen welche uns in Schweden, Norwegen und Kanada erwarten werden. Daher gibt es hier in Update unserer Packliste.
+Neue Länder, neue Kleidung. Nachdem wir nun nach einem halben Jahr in Südost-Asien bei 30 Grad verbringen durften, müssen wir unsere Garderobe nun etwas an die -10 bis +10 Grad anpassen welche uns in Schweden, Norwegen und Kanada erwarten werden.
 
 <!--more-->
 

@@ -15,7 +15,7 @@
 
 <p>Willkommen auf <strong>Immer gutes Wetter</strong>. Wir sind Verena & Flo und seit August 2016 sogenannte digitale Nomaden. Wir haben in Deutschland alles verkauft, was sich so angesammelt hat und sind mit <a href="">Rucksack und Laptop</a> losgezogen.</p>
 
-<h1 class="location color-background">Hier sind wir gerade: <br> Toronto, Kanada</span></h1>
+<h1 class="location color-background index-sub-title">Hier sind wir gerade: <br> Toronto, Kanada</span></h1>
 
 <p>Auf unserem Blog findet ihr alles mögliche <a href="">über uns</a>, was wir machen, wie wir das machen und natürlich viele, viele Geschichten über alles, was wir so erleben.</p>
 
@@ -26,54 +26,29 @@
 <div>
 	<h2 class="color-background index-sub-title">Der neuste Blogpost</h2>
 
-<!-- {{ range first 1 .Data.Pages }} -->
-<!-- <div class="index-latest-post">
-		
-		<a href="{{ .Permalink }}">
-			<img class="index-latest-post-img" src="{{ .Site.BaseURL}}{{ .Params.image }}" alt="">
-		</a>
-		<div>
-			<h2>
-				<a href="{{ .Permalink }}">{{ .Title }}</a>
-			</h2>
-		</div>
-		<div class="index-latest-post-date">
-			Veröffentlicht am {{ .Date.Format "02. 01. 2006" }}
-		</div>
-	<div>
-			<p>
-				{{ .Summary }}
-			</p>
-			<div>
-				<a class="index-read-more" href='{{ .Permalink }}'><nobr><strong>Weiter lesen →</strong></nobr></a>
-			</div>
-			{{ end }}
-	</div>
-</div> -->
-
 <ul>			
 			{{ range first 1 .Data.Pages }}
-	<li class="blog-summary-row">
+	<li class="index-blog-summary-row">
 <div>
 	<div class="hover03 column">
 		<a href="{{ .Permalink }}">
-			<figure><img class="blog-summary-img" src="{{ .Site.BaseURL}}{{ .Params.image }}" alt="">
+			<figure><img class="index-blog-summary-img" src="{{ .Site.BaseURL}}{{ .Params.image }}" alt="">
 			</figure>
 		</a>
 	</div>
 </div>
 
-<div class="blog-summary-column">
-	<div class="blog-summary-category">
+<div class="index-blog-summary-column">
+	<div class="index-blog-summary-category">
 
 		{{ .Params.Category }}
 	</div>
 
-	<h2 class="blog-summary-title">
+	<h2 class="index-blog-summary-title">
 		<a href="{{ .Permalink }}">{{ .Title }}</a>
 	</h2>		
 
-	<div class="blog-summary-date">
+	<div class="index-blog-summary-date">
 		Veröffentlicht am {{ .Date.Format "02. 01. 2006" }}
 	</div>
 				
@@ -83,7 +58,7 @@
 	</p>
 
 	<p>
-		<a class="blog-summary-read-more" href='{{ .Permalink }}'>Weiter lesen →</a>
+		<a class="index-blog-summary-read-more" href='{{ .Permalink }}'>Weiter lesen →</a>
 	</p>
 
 </div>
