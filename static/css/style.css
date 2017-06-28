@@ -367,6 +367,10 @@ figure img {
 
 /*instagram feed*/
 
+#instafeed img {
+  padding: 1em;
+  width: 40%;
+}
 
 .insta-more {
   text-align: center;
