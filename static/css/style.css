@@ -83,6 +83,7 @@ img {
 .title-main {
   text-align: center;
   padding-bottom: 1em;
+  font-family: var(--font-special)
 }
 
 
