@@ -251,6 +251,7 @@ background-image: linear-gradient(to bottom, white 5%, #91C8E1 100%);
   float: right;
   color: var(--text-color);
   border-bottom: var(--text-color) solid 1px;
+  font-weight: 600;
 }
 
 
@@ -487,8 +488,8 @@ figure img {
   height: auto; 
 }
 @media screen and (max-width: 400px) {
-  .blog-post-gallery div { margin: 0; }
-  .blog-post-gallery { padding: 0; }
+  .blog-post-gallery div {margin: 0; }
+  .blog-post-gallery {padding: 0; }
   
 }
 
