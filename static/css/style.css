@@ -214,10 +214,15 @@ background-image: linear-gradient(to bottom, white 5%, #91C8E1 100%);
 }
 
 .index-blog-summary-column {
- padding-right: 1em; 
+ padding-right: 2em; 
  width: 250px;
  height: auto;
 }
+
+.index-blog-summary-column:last-child {
+ padding-right: 0; 
+}
+
 
 
 .index-blog-summary-img {
@@ -522,7 +527,7 @@ footer {
   flex-direction: column;
   align-items: center;
   justify-content: space-around;
-  margin: auto 10em auto 0;
+  margin: 10em 10em auto 0;
   background:url("/img/footer-background.png") repeat-x scroll top transparent; 
     background-size: 100% auto;
     height: auto; 
@@ -541,14 +546,14 @@ footer {
 
 .footer-social img {
   padding: 1em;
-  height: 2.5em;
-  width: 2.5em;
+  height: 2em;
+  width: 2em;
   filter: invert(0%);
 }
 
 .footer-social img:hover {
   padding: 1em;
-  height: 2.5em;
-  width: 2.5em;
+  height: 2em;
+  width: 2em;
   filter: invert(100%);
 }
