@@ -517,20 +517,15 @@ figure img {
 
 
 /*footer*/
-footer {
+.footer-normal {
   text-align: center;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: space-around;
-  background-color: #AAD155;
   margin-top: 5em;
   padding-top: 2em;
   padding-bottom: 1em;
-    /*background-image: url('/img/footer-mountains.png');
-    background-size: 100%;
-    background-repeat: no-repeat;
-    background-position: center;*/
 }
 
 .footer-social {
@@ -552,4 +547,14 @@ footer {
   height: 2em;
   width: 2em;
   filter: invert(100%);
+}
+
+
+.footer-index {
+  margin-top: 5em;
+  padding-top: 50%;
+  position: relative;
+  background: url('/img/footer-mountains-2.png') no-repeat center bottom; 
+  background-size: 107%;
+  overflow: hidden;
 }
