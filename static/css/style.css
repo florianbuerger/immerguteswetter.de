@@ -4,7 +4,7 @@ html {
   --text-color: #333;
   --dark-background: #91C8E1;
   --light-text-color: grey;
-  --font-special: 'Bradley Hand', serif;
+  --font-special: 'Bitter', serif;
   --font-normal: 'Lora', sans-serif;
   --font-signature: 'Calligraffitti', serif;
 }
@@ -40,7 +40,7 @@ a {
 p a {
   color: var(--fun-color);
   text-decoration: none;
-  border-bottom: 1px solid var(--fun-color);
+  border-bottom: 2px solid var(--fun-color);
 }
 
 a:hover {
@@ -112,6 +112,7 @@ img {
  transform-origin: top right;
  transform: skewY(-5deg);
  z-index: -10;
+ border: #333 2px solid;
 }
 
 .asymmetric::after {
@@ -125,6 +126,7 @@ img {
  transform-origin: bottom right;
  transform: skewY(7deg);
  z-index: -10;
+ border: #333 2px solid;
 }
 
 
@@ -167,8 +169,8 @@ header {
 }
 
 .boarder-header {
-  border-top: 1px solid var(--fun-color);
-  border-bottom: 1px solid var(--fun-color);
+  border-top: 2px solid #333;
+  border-bottom: 2px solid #333;
 }
 
 
@@ -176,7 +178,7 @@ header {
 
 /*index*/
 .index-all {
-background-image: linear-gradient(to bottom, white 5%, #91C8E1 100%);
+background-image: linear-gradient(to bottom, white 20%, #91C8E1 100%);
 }
 
 .index-title-main {
@@ -198,6 +200,7 @@ background-image: linear-gradient(to bottom, white 5%, #91C8E1 100%);
 
 .index-sub-title {
   margin-top: 1em;
+  text-align: center;
 }
 
 
@@ -255,13 +258,13 @@ background-image: linear-gradient(to bottom, white 5%, #91C8E1 100%);
 .index-blog-summary-read-more {
   float: right;
   color: var(--text-color);
-  border-bottom: var(--text-color) solid 1px;
+  border-bottom: var(--text-color) solid 2px;
   font-weight: 600;
 }
 
 .index-blog-summary-read-more:hover {
   color: var(--fun-color);
-  border-bottom: var(--fun-color) solid 1px;
+  border-bottom: var(--fun-color) solid 2px;
 }
 
 .hover04 figure img {
@@ -300,6 +303,13 @@ background-image: linear-gradient(to bottom, white 5%, #91C8E1 100%);
 
 
 
+.index-world-map {
+  display: block;
+  margin: 2em auto;
+  width: 75%;
+  height: auto;
+  min-height: 350px;
+}
 
 
 @media only screen and (max-width: 42em) {
@@ -333,7 +343,13 @@ background-image: linear-gradient(to bottom, white 5%, #91C8E1 100%);
   }
 
 .plane-index {
+  width: 120%;
+}
+
+.index-world-map {
   width: 100%;
+  height: auto;
+  min-height: 270px;
 }
 }
 
@@ -510,7 +526,7 @@ figure img {
 }
 
 .insta-more a {
-  border-bottom: 1px solid var(--fun-color);
+  border-bottom: 2px solid var(--fun-color);
 }
 
 
@@ -552,9 +568,9 @@ figure img {
 
 .footer-index {
   margin-top: 5em;
-  padding-top: 50%;
+  padding-top: 35%;
   position: relative;
   background: url('/img/footer-mountains-2.png') no-repeat center bottom; 
-  background-size: 107%;
+  background-size: 100%;
   overflow: hidden;
 }
