@@ -309,6 +309,7 @@ background-image: linear-gradient(to bottom, white 20%, #91C8E1 100%);
   width: 75%;
   height: auto;
   min-height: 350px;
+  border: 2px solid #333;
 }
 
 
