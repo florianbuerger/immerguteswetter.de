@@ -93,10 +93,10 @@ img {
  background-size: 150% auto;
  height: auto;
  width: 100%;
- margin-left: -12em;
- margin-right: -12em;
- padding-left: 12em;
- padding-right: 12em;
+ margin-left: -10em;
+ margin-right: -10em;
+ padding-left: 10em;
+ padding-right: 10em;
  margin-top: 6em;
  margin-bottom: 7em;
 }
@@ -112,7 +112,7 @@ img {
  transform-origin: top right;
  transform: skewY(-5deg);
  z-index: -10;
- border: #333 2px solid;
+ border-bottom: #333 2px solid;
 }
 
 .asymmetric::after {
@@ -126,7 +126,7 @@ img {
  transform-origin: bottom right;
  transform: skewY(7deg);
  z-index: -10;
- border: #333 2px solid;
+ border-top: #333 2px solid;
 }
 
 
@@ -173,8 +173,12 @@ header {
   border-bottom: 2px solid #333;
 }
 
-
-
+@media only screen and (max-width: 24em) {
+  .nav-header{
+    font-size: 1em;
+    width: 300px;
+  }
+}
 
 /*index*/
 .index-all {
