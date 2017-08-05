@@ -228,6 +228,7 @@ background-image: linear-gradient(to bottom, white 20%, #91C8E1 100%);
 
 .plane-index {
   margin: 4em auto;
+  width: 100%;
 }
 
 .index-blog-summary {
@@ -243,6 +244,8 @@ background-image: linear-gradient(to bottom, white 20%, #91C8E1 100%);
     padding: 0 2em 0 0; 
   }
 }
+
+
 .index-blog-summary-column {
   padding: 1em; 
   width: 250px;
@@ -342,13 +345,6 @@ background-image: linear-gradient(to bottom, white 20%, #91C8E1 100%);
 }
 
 
-@media only screen and (max-width: 42em) {
-  .plane-index {
-    width: 100%;
-  }
-}
-
-
 @media only screen and (max-width: 56em) {
   .index-blog-summary {
     flex-direction: column;
@@ -371,10 +367,6 @@ background-image: linear-gradient(to bottom, white 20%, #91C8E1 100%);
     width: 100%;
     height: auto;
   }
-
-.plane-index {
-  width: 120%;
-}
 
 .index-world-map {
   width: 100%;
