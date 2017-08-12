@@ -2,7 +2,7 @@
 title = "Kuala Lumpur"
 date = "2016-10-25"
 layout = "blog"
-image = "img/kl-0.jpg"
+image = "/img/kl-0.jpg"
 category = "Malaysia"
 +++
 
