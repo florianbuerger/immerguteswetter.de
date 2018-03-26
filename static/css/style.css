@@ -538,9 +538,17 @@ figure img {
 
 /*instagram feed*/
 
+#instafeed {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
 #instafeed img {
   padding: 1em;
-  width: 40%;
+  width: 15em;
+  height: 15em;
 }
 
 .insta-more {

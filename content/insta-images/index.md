@@ -19,7 +19,7 @@ layout = "default"
     get: 'user',
     userId: '3137108085',
     clientId: 'f565d0d1a8504e19a1ceaf7478e289dd',
-    accessToken: '3137108085.3a81a9f.314d32427efb424dac36519f0c39ab2d',
+    accessToken: '3137108085.1677ed0.7dfb48dddfb44d27bf8dfd600a5139f9',
     resolution: 'standard_resolution',
     template: '<a href="{{link}}" target="_blank" id="{{id}}"><img src="{{image}}" /></a>',
     sortBy: 'most-recent',
