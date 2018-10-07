@@ -31,4 +31,6 @@ Falls ihr immer auf dem neuesten Stand sein wollt, dann empfehlen wir euch unser
 
 ## P.S.: Hier unsere bisherige Reiseroute:
 
-<div style="position: relative;margin: 5px 0 5px 0;padding-bottom: 56.25%;height: 0;clear: both;"><iframe style="position: absolute;top: 0;left: 0;width: 100%;height: 100%;border: 0;" src="https://www.tripline.net/map?tripId=14632050231010138626D8E580228723&onSite=0" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe></div>
+<div style="position: relative;margin: 5px 0 5px 0;padding-bottom: 56.25%;height: 0;clear: both;">
+<iframe class="index-world-map" src="https://www.tripline.net/map?tripId=14632050231010138626D8E580228723&onSite=0"></iframe>
+</div>
